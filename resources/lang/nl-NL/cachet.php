@@ -30,8 +30,8 @@ return [
     // Incidents
     'incidents' => [
         'none'         => 'Geen incidenten gemeld',
-        'past'         => 'Oude incidenten',
-        'stickied'     => 'Vastgezette incidenten',
+        'past'         => 'Storingen',
+        'stickied'     => 'Pinned incidenten',
         'scheduled'    => 'Gepland onderhoud',
         'scheduled_at' => ', gepland :timestamp',
         'posted'       => 'Posted :timestamp by :username',
