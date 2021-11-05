@@ -27,7 +27,7 @@ return [
     // Incidents
     'incidents' => [
         'none'          => 'Geen incidenten gemeld',
-        'past'          => 'Oude incidenten',
+        'past'          => 'Storingen',
         'previous_week' => 'Vorige week',
         'next_week'     => 'Volgende week',
         'scheduled'     => 'Gepland onderhoud',
